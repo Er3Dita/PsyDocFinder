@@ -1,6 +1,4 @@
 # PsyDocFinder
-Psydoc Finder:
-
 Benvenuti in PsyDoc Finder, l'app definitiva per il tuo benessere mentale.<br>
 Siamo qui per aiutarti a trovare la giusta via verso la salute mentale.<br>
 Registrati come utente o specialista, accedi con facilità.<br>
