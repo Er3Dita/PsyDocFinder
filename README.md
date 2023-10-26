@@ -1,16 +1,17 @@
 # PsyDocFinder
 Psydoc Finder(ho preso spunto da "unobravo"):
-  Benvenuti in PsyDoc Finder, l'app definitiva per il tuo benessere mentale. 
-	Siamo qui per aiutarti a trovare la giusta via verso la salute mentale. 
-	Registrati come utente o specialista, accedi con facilità. 
-	Scopri chi siamo e come contattarci nella nostra breve introduzione.
-	Gli utenti possono cercare specialisti in base alle proprie esigenze, grazie alla nostra funzione di ricerca avanzata. 
-	I specialisti, iscritti all'albo, possono creare il loro profilo, con dettagli su di loro, orari di ricevimento e tariffe.
-	Il nostro calendario ti permette di gestire gli appuntamenti in modo semplice, con pop-up per ricordarti le tue sedute. 
-	Abbiamo anche una sezione dedicata alla psicoeducazione, per comprendere meglio la salute mentale e i segnali d'allarme.
-	La tua sicurezza è importante: abbiamo una sezione di pronto soccorso per situazioni di emergenza e numeri d'emergenza disponibili. 
-	Gli utenti possono condividere le proprie esperienze e recensioni sui specialisti e il sito, ma solo dopo aver effettuato almeno una seduta. 
-	I specialisti possono leggere e condividere le recensioni di altri specialisti che utilizzano il sito per il lavoro.
+
+Benvenuti in PsyDoc Finder, l'app definitiva per il tuo benessere mentale.<br>
+Siamo qui per aiutarti a trovare la giusta via verso la salute mentale.<br>
+Registrati come utente o specialista, accedi con facilità.<br>
+Scopri chi siamo e come contattarci nella nostra breve introduzione.<br>
+Gli utenti possono cercare specialisti in base alle proprie esigenze, grazie alla nostra funzione di ricerca avanzata.<br>
+I specialisti, iscritti all'albo, possono creare il loro profilo, con dettagli su di loro, orari di ricevimento e tariffe.<br>
+Il nostro calendario ti permette di gestire gli appuntamenti in modo semplice, con pop-up per ricordarti le tue sedute.<br> 
+Abbiamo anche una sezione dedicata alla psicoeducazione, per comprendere meglio la salute mentale e i segnali d'allarme.<br>
+La tua sicurezza è importante: abbiamo una sezione di pronto soccorso per situazioni di emergenza e numeri d'emergenza disponibili.<br> 
+Gli utenti possono condividere le proprie esperienze e recensioni sui specialisti e il sito, ma solo dopo aver effettuato almeno una seduta.<br> 
+I specialisti possono leggere e condividere le recensioni di altri specialisti che utilizzano il sito per il lavoro.<br>
 
 
 Requisiti funzionali:
