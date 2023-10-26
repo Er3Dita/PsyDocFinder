@@ -26,13 +26,13 @@ I specialisti possono leggere e condividere le recensioni di altri specialisti c
 	Attori: Utenti.<br>
 	Descrizione: Permettere la ricerca all'utente per campi di uno specialista.
 
-4) Iscrivere uno specialista:<br>
+4) Crea profilo:<br>
 	Attori: Specialisti.<br>
-	Descrizione: Permettere ad uno specialista di poter inserire una descrizione di lui e del suo lavoro, oltre che dei suoi orari di ricevimento e tariffe.
+	Descrizione: Permettere ad uno specialista di poter creare il proprio profilo, dunque di inserire una descrizione di lui e del suo lavoro, oltre che dei suoi orari di ricevimento e tariffe.
 
 5) Calendario:<br>
 	Attori: Utenti, Specialisti.<br>
-	Descizione: Visualizzazione di un calendario e pop-up in caso di appuntamenti presi, sia per specialisti che per utenti.
+	Descizione: Visualizzazione di un calendario e pop-up in caso di appuntamenti presi, sia per specialisti che per utenti, permettendo la cancellazione dell'appuntamento stesso in caso di imprevisiti.
 
 6) Psicoeducazione:<br>
 	Attori: Utenti.<br>
