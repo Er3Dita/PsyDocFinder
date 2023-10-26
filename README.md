@@ -14,7 +14,7 @@ Gli utenti possono condividere le proprie esperienze e recensioni sui specialist
 I specialisti possono leggere e condividere le recensioni di altri specialisti che utilizzano il sito per il lavoro.<br>
 
 
-Requisiti funzionali:
+## Requisiti funzionali:
 
 1) login iniziale come utente o specialista:
 	attori:	utenti, specialisti.
@@ -52,7 +52,7 @@ Requisiti funzionali:
 	attori: specialisti.
 	descrizione: sezione dedicata alle recensioni lasciate da altri specialisiti, si può lasciare la propria recensione solo se si ha usato il sito per lavorare.
 
-requisiti non funzionali:
+## requisiti non funzionali:
 
 1) rispetto norme gdbr:
 	l'applicativo deve rispettare le norme europee GDBR in meriro al modo in cui le aziende e le altre organizzazioni trattano i dati personali.
