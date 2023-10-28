@@ -60,3 +60,6 @@ I specialisti possono leggere e condividere le recensioni di altri specialisti c
 1) Rispetto norme gdbr: L'applicativo deve rispettare le norme europee GDBR in meriro al modo in cui le aziende e le altre organizzazioni trattano i dati personali.
 	
 2) Sicurezza: L'applicativo deve garanrire sicurezza su ogni aspetto.
+
+## Use Case Diagram:
+![diagramma UML](https://yuml.me/52f5e449.png).
