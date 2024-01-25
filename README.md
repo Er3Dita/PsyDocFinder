@@ -62,56 +62,56 @@ I specialisti possono leggere e condividere le recensioni di altri specialisti c
 2) Sicurezza: L'applicativo deve garanrire sicurezza su ogni aspetto.
 
 ## Use Case Diagram:
-![diagramma UML](https://yuml.me/52f5e449.png).
+![diagramma UML](https://yuml.me/52f5e449.png)
 
-WBS:
+## WBS:
 
-1 Login e Registrazione:
-1.1 Login Utente
-1.2 Login Specialista
-1.3 Registrazione Utente
-1.4 Registrazione Specialista
+1 Login e Registrazione:<br>
+1.1 Login Utente<br>
+1.2 Login Specialista<br>
+1.3 Registrazione Utente<br>
+1.4 Registrazione Specialista<br>
 
-2 Introduzione(chi siamo noi sviluppatori):
-2.1 Introduzione Utenti
-2.2 Introduzione Specialisti
-2.3 Contatti e Social Media
+2 Introduzione(chi siamo noi sviluppatori):<br>
+2.1 Introduzione Utenti<br>
+2.2 Introduzione Specialisti<br>
+2.3 Contatti e Social Media<br>
 
-3 Ricerca Specialisti:
-3.1 Filtri di Ricerca
-3.2 Visualizzazione Risultati
+3 Ricerca Specialisti:<br>
+3.1 Filtri di Ricerca<br>
+3.2 Visualizzazione Risultati<br>
 
-4 Creazione Profilo:
-4.1 Descrizione Personale
-4.2 Orari di Ricevimento
-4.3 Tariffe
+4 Creazione Profilo:<br>
+4.1 Descrizione Personale<br>
+4.2 Orari di Ricevimento<br>
+4.3 Tariffe<br>
 
-5 Calendario e Appuntamenti:
-5.1 Visualizzazione Calendario
-5.2 Prenotazione Appuntamenti
-5.3 Pop-up di Promemoria
-5.4 Cancella Appuntamento
+5 Calendario e Appuntamenti:<br>
+5.1 Visualizzazione Calendario<br>
+5.2 Prenotazione Appuntamenti<br>
+5.3 Pop-up di Promemoria<br>
+5.4 Cancella Appuntamento<br>
 
-6 Psicoeducazione:
-6.1 Informazioni Salute Mentale
-6.2 Disturbi Comuni
-6.3 Campanelli d'Allarme
+6 Psicoeducazione:<br>
+6.1 Informazioni Salute Mentale<br>
+6.2 Disturbi Comuni<br>
+6.3 Campanelli d'Allarme<br>
 
-7 Soccorso Suicidi:
-7.1 Informazioni di Emergenza
-7.2 Numeri d'Emergenza
+7 Soccorso Suicidi:<br>
+7.1 Informazioni di Emergenza<br>
+7.2 Numeri d'Emergenza<br>
 
-8 Recensioni:
-8.1 Scrivere Recensioni Utenti
-8.2 Leggere Recensioni Utenti
-8.3 Scrivere Recensioni Specialisti
-8.4 Leggere Recensioni Specialisti
+8 Recensioni:<br>
+8.1 Scrivere Recensioni Utenti<br>
+8.2 Leggere Recensioni Utenti<br>
+8.3 Scrivere Recensioni Specialisti<br>
+8.4 Leggere Recensioni Specialisti<br>
 
-9 Sezione Preferiti:
-9.1 Aggiungi agli Specialisti Preferiti
-9.2 Visualizza Specialisti Preferiti
-9.3 Specialisti in Cura
+9 Sezione Preferiti:<br>
+9.1 Aggiungi agli Specialisti Preferiti<br>
+9.2 Visualizza Specialisti Preferiti<br>
+9.3 Specialisti in Cura<br>
 
-10 Requisiti Non Funzionali:
-10.1 Rispetto Norme GDPR
-10.2 Sicurezza Applicativa
+10 Requisiti Non Funzionali:<br>
+10.1 Rispetto Norme GDPR<br>
+10.2 Sicurezza Applicativa<br>
