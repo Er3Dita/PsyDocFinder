@@ -63,3 +63,55 @@ I specialisti possono leggere e condividere le recensioni di altri specialisti c
 
 ## Use Case Diagram:
 ![diagramma UML](https://yuml.me/52f5e449.png).
+
+WBS:
+
+1 Login e Registrazione:
+1.1 Login Utente
+1.2 Login Specialista
+1.3 Registrazione Utente
+1.4 Registrazione Specialista
+
+2 Introduzione(chi siamo noi sviluppatori):
+2.1 Introduzione Utenti
+2.2 Introduzione Specialisti
+2.3 Contatti e Social Media
+
+3 Ricerca Specialisti:
+3.1 Filtri di Ricerca
+3.2 Visualizzazione Risultati
+
+4 Creazione Profilo:
+4.1 Descrizione Personale
+4.2 Orari di Ricevimento
+4.3 Tariffe
+
+5 Calendario e Appuntamenti:
+5.1 Visualizzazione Calendario
+5.2 Prenotazione Appuntamenti
+5.3 Pop-up di Promemoria
+5.4 Cancella Appuntamento
+
+6 Psicoeducazione:
+6.1 Informazioni Salute Mentale
+6.2 Disturbi Comuni
+6.3 Campanelli d'Allarme
+
+7 Soccorso Suicidi:
+7.1 Informazioni di Emergenza
+7.2 Numeri d'Emergenza
+
+8 Recensioni:
+8.1 Scrivere Recensioni Utenti
+8.2 Leggere Recensioni Utenti
+8.3 Scrivere Recensioni Specialisti
+8.4 Leggere Recensioni Specialisti
+
+9 Sezione Preferiti:
+9.1 Aggiungi agli Specialisti Preferiti
+9.2 Visualizza Specialisti Preferiti
+9.3 Specialisti in Cura
+
+10 Requisiti Non Funzionali:
+10.1 Rispetto Norme GDPR
+10.2 Sicurezza Applicativa
