@@ -1,5 +1,5 @@
 # PsyDocFinder
-Benvenuti in PsyDocFinder, l'app definitiva per il tuo benessere mentale.<br>
+Benvenuti in PsyDocFinder, il portale definitivo per il tuo benessere mentale.<br>
 Siamo qui per aiutarti a trovare la giusta via verso la salute mentale.<br>
 Registrati come utente o specialista, accedi con facilità.<br>
 Scopri chi siamo e come contattarci nella nostra breve introduzione.<br>
